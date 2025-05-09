@@ -1,0 +1,2 @@
+data modify storage mineabletrialspawner:image current.pixel_color set from storage mineabletrialspawner:image background_color
+function mineabletrialspawner:image/process/build_pixel with storage mineabletrialspawner:image current

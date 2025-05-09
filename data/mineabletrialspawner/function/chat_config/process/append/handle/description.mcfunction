@@ -1,0 +1,2 @@
+$execute unless data storage config_system:mineabletrialspawner current_option{description:""} run data modify storage config_system:mineabletrialspawner menu append value {text:"$(description)",color:"gray"}
+execute unless data storage config_system:mineabletrialspawner current_option{description:""} run data modify storage config_system:mineabletrialspawner menu append value "\n"

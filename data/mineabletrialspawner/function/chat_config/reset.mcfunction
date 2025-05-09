@@ -1,0 +1,3 @@
+data remove storage config_system:mineabletrialspawner menu
+data remove storage config_system:mineabletrialspawner current_option
+data remove storage config_system:mineabletrialspawner options

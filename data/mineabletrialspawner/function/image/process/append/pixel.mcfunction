@@ -1,0 +1,1 @@
+function mineabletrialspawner:image/process/build_pixel with storage mineabletrialspawner:image current

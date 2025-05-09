@@ -1,0 +1,1 @@
+data modify storage config_system:mineabletrialspawner menu append value "\n"
