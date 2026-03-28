@@ -1,0 +1,2 @@
+scoreboard players enable @a mineable_trial_spawner.config
+execute as @a if score @s mineable_trial_spawner.config matches 1 run function mineable_trial_spawner:config/dialog_config with storage mineable_trial_spawner:root data

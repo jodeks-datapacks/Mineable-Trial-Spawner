@@ -1,0 +1,6 @@
+{
+  "values": [
+    "mineable_trial_spawner:app/setup",
+    "mineable_trial_spawner:app/load_message"
+  ]
+}
