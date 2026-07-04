@@ -16,7 +16,7 @@ function mineable_trial_spawner:image/set_image_data {\
     {text: "Mineable Trial Spawner"},\
     {translate: "mineable_trial_spawner.description", fallback: "Mine trial spawners & vaults with a pickaxe"},\
     "",\
-    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v1.1.2", color: "#54fc54"}],\
+    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v1.1.3", color: "#54fc54"}],\
     "",\
     [{translate: "jodek.by", fallback: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
     {text: "modrinth.com/datapack/mineable-trial-spawner", color: "#a800a8"},\
